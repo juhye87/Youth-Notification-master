@@ -10,18 +10,18 @@
         android:layout_width="60dp"
         android:layout_height="58dp"
         android:text="category" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="profile" />
-
-
     <ImageButton
         android:id="@+id/imageButton"
-        android:layout_width="91dp"
-        android:layout_height="180dp"
+        android:layout_width="119dp"
+        android:layout_height="422dp"
         android:layout_weight="1"
         tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
 
 </LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360158332198",
+    "project_id": "youth-notification-a8c01",
+    "storage_bucket": "youth-notification-a8c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360158332198:android:903dc8a5df46a8d19bade7",
+        "android_client_info": {
+          "package_name": "com.example.youthnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360158332198-m2vvsded6j6irchiilsdebpail69l64l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vead80tIM8tiUFUSdGmT4eb56mJs3zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360158332198-m2vvsded6j6irchiilsdebpail69l64l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
